@@ -14,7 +14,7 @@ class TEXT:
 
     ABOUT = """**𝖬𝗒 𝖣𝖾𝗍𝖺𝗂𝗅𝗌 :**
 
-** My Name:** {mr renamer}
+** My Name:** {bot_name}
     
 ** Language:** [Python 3](https://www.python.org/)
 
